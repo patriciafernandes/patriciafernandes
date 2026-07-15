@@ -41,7 +41,7 @@ My goal is to translate cutting-edge research into **scalable, reliable, and val
 - **Customer Support AI Agent** – Multi-agent tool integrated with APIs  
 - **NLP Classifier** – Model training and deployment with FastAPI  
 
-*(add real repository links here)*
+
 
 ---
 
